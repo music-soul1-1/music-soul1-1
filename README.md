@@ -1,9 +1,26 @@
-<h3 align="center">My stats:</h3>
+### 👋 Hello there!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=music-soul1-1&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight&border_radius=28&hide_border=true&count_private=true" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=music-soul1-1&layout=donut&locale=en&theme=tokyonight&langs_count=5&border_radius=28&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=practice" height="200px"/>
-</p>
-  
+I'm **Yehor Malyshev**, student at Kharkiv National University of Radio Electronics. I develop backend applications in [ASP .NET](https://dotnet.microsoft.com/en-us/apps/aspnet) and frontend apps in [React](https://react.dev/)-based frameworks.
 
 
+### 🔎 My projects
+
+- [nure-timetable](https://github.com/music-soul1-1/nure-timetable) - cross-platform schedule app for Kharkiv National University of Radio Electronics. Written in [Flutter](https://flutter.dev/).
+- [fire-notes](https://github.com/music-soul1-1/fire-notes) - notes and to-do web application with real-time updates. Written in [Next.js](https://nextjs.org/)
+- [fire-notes-mobile](https://github.com/music-soul1-1/fire-notes-mobile) - mobile version of [fire-notes](https://github.com/music-soul1-1/fire-notes) written in [React Native](https://reactnative.dev/).
+- [ConsoleAccountManager](https://github.com/music-soul1-1/ConsoleAccountManager) - console password manager. It allows you to store your accounts data for different services.
+- [weather-app](https://github.com/music-soul1-1/weather-app) - weather forecast application written in [React Native](https://reactnative.dev/).
+
+### 🌐 Languages and frameworks
+
+- [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
+- [.NET](https://dotnet.microsoft.com/en-us/)
+- [ASP .NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
+- [Entity Framework](https://learn.microsoft.com/en-us/ef/)
+- [Flutter](https://flutter.dev/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [React Native](https://reactnative.dev/)
+- [C++](https://cplusplus.com/)
