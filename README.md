@@ -5,6 +5,7 @@ I'm **Yehor Malyshev**, student at Kharkiv National University of Radio Electron
 
 ### 🔎 My projects
 
+- [NureTimetableAPI](https://github.com/music-soul1-1/NureTimetableAPI) - ASP .NET Core Web API for getting full university structure and schedule for students/teachers/auditories of the Kharkiv National University of Radio Electronics.
 - [nure-timetable](https://github.com/music-soul1-1/nure-timetable) - cross-platform schedule app for Kharkiv National University of Radio Electronics. Written in [Flutter](https://flutter.dev/).
 - [fire-notes](https://github.com/music-soul1-1/fire-notes) - notes and to-do web application with real-time updates. Written in [Next.js](https://nextjs.org/)
 - [fire-notes-mobile](https://github.com/music-soul1-1/fire-notes-mobile) - mobile version of [fire-notes](https://github.com/music-soul1-1/fire-notes) written in [React Native](https://reactnative.dev/).
